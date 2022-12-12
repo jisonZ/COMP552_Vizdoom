@@ -29,7 +29,7 @@ Run to play the defend the center scenario. Press arrow keys to pan left and rig
 Install the following packages-
 ```
 pip install vizdoom[gym]
-!pip install stable-baselines3
-!pip install sb3-contrib
+pip install stable-baselines3
+pip install sb3-contrib
 ```
 
