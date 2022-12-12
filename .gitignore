@@ -1,0 +1,6 @@
+*.zip
+*.csv
+*.pickle
+*.ini
+logs
+.ipynb_checkpoints
