@@ -1,6 +1,9 @@
 # COMP552_Vizdoom
 COMP552 final project
 
+## Our Trained Models are available at
+https://drive.google.com/file/d/14PPffTA1F_oTl6EMz0RJs7i0NS5rxsnF/view?usp=sharing
+
 ## train_baseline3.py
 train PPO and RPPO agent under single enviroment.
 
